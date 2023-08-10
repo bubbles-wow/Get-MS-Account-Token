@@ -1,0 +1,15 @@
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\bin\Release\net6.0-windows\MicrosoftAuth.Popup.deps.json
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\bin\Release\net6.0-windows\MicrosoftAuth.Popup.dll
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\bin\Release\net6.0-windows\MicrosoftAuth.Popup.pdb
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\obj\Release\net6.0-windows\MicrosoftAuth.Popup.csproj.AssemblyReference.cache
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\obj\Release\net6.0-windows\MSAuth.Popup.OAuthPopup.resources
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\obj\Release\net6.0-windows\MicrosoftAuth.Popup.Properties.Resources.resources
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\obj\Release\net6.0-windows\MicrosoftAuth.Popup.csproj.GenerateResource.cache
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\obj\Release\net6.0-windows\MicrosoftAuth.Popup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\obj\Release\net6.0-windows\MicrosoftAuth.Popup.AssemblyInfoInputs.cache
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\obj\Release\net6.0-windows\MicrosoftAuth.Popup.AssemblyInfo.cs
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\obj\Release\net6.0-windows\MicrosoftAuth.Popup.csproj.CoreCompileInputs.cache
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\obj\Release\net6.0-windows\MicrosoftAuth.Popup.dll
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\obj\Release\net6.0-windows\refint\MicrosoftAuth.Popup.dll
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\obj\Release\net6.0-windows\MicrosoftAuth.Popup.pdb
+D:\Project\MinecraftBedrockArchiver\MSAuth.Popup\obj\Release\net6.0-windows\ref\MicrosoftAuth.Popup.dll

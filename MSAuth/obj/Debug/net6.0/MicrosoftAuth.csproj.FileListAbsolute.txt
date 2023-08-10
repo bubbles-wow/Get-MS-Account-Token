@@ -1,0 +1,12 @@
+D:\Project\Get-MS-account-Token\MSAuth\bin\Debug\net6.0\MicrosoftAuth.deps.json
+D:\Project\Get-MS-account-Token\MSAuth\bin\Debug\net6.0\MicrosoftAuth.dll
+D:\Project\Get-MS-account-Token\MSAuth\bin\Debug\net6.0\MicrosoftAuth.pdb
+D:\Project\Get-MS-account-Token\MSAuth\obj\Debug\net6.0\MicrosoftAuth.csproj.AssemblyReference.cache
+D:\Project\Get-MS-account-Token\MSAuth\obj\Debug\net6.0\MicrosoftAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Get-MS-account-Token\MSAuth\obj\Debug\net6.0\MicrosoftAuth.AssemblyInfoInputs.cache
+D:\Project\Get-MS-account-Token\MSAuth\obj\Debug\net6.0\MicrosoftAuth.AssemblyInfo.cs
+D:\Project\Get-MS-account-Token\MSAuth\obj\Debug\net6.0\MicrosoftAuth.csproj.CoreCompileInputs.cache
+D:\Project\Get-MS-account-Token\MSAuth\obj\Debug\net6.0\MicrosoftAuth.dll
+D:\Project\Get-MS-account-Token\MSAuth\obj\Debug\net6.0\refint\MicrosoftAuth.dll
+D:\Project\Get-MS-account-Token\MSAuth\obj\Debug\net6.0\MicrosoftAuth.pdb
+D:\Project\Get-MS-account-Token\MSAuth\obj\Debug\net6.0\ref\MicrosoftAuth.dll

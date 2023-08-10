@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CoreTool</id>
+    <version>1.0.0</version>
+    <authors>CoreTool</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="GooglePlayApi.Popup" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="GooglePlayApi" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="MicrosoftAuth.Popup" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="MicrosoftAuth" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="StoreLib" version="1.2.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="chromiumembeddedframework.runtime.win-arm64" version="100.0.14" exclude="Build,Analyzers" />
+        <dependency id="chromiumembeddedframework.runtime.win-x64" version="100.0.14" exclude="Build,Analyzers" />
+        <dependency id="chromiumembeddedframework.runtime.win-x86" version="100.0.14" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/am.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/ar.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/bg.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/bn.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/ca.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/cs.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/da.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/de.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/el.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/en-GB.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/en-US.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/es-419.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/es.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/et.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/fa.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/fi.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/fil.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/fr.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/gu.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/he.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/hi.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/hr.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/hu.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/id.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/it.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/ja.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/kn.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/ko.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/lt.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/lv.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/ml.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/mr.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/ms.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/nb.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/nl.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/pl.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/pt-BR.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/pt-PT.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/ro.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/ru.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/sk.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/sl.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/sr.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/sv.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/sw.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/ta.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/te.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/th.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/tr.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/uk.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/vi.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/zh-CN.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/zh-TW.pak" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/libEGL.dll" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/libGLESv2.dll" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/CefSharp.dll" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Ijwhost.dll" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Project\MinecraftBedrockArchiver\CoreTool\bin\x64\Debug\net6.0-windows\CoreTool.runtimeconfig.json" target="lib\net6.0-windows7.0\CoreTool.runtimeconfig.json" />
+    <file src="D:\Project\MinecraftBedrockArchiver\CoreTool\bin\x64\Debug\net6.0-windows\CoreTool.dll" target="lib\net6.0-windows7.0\CoreTool.dll" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\am.pak" target="content\am.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\am.pak" target="contentFiles\any\net6.0-windows7.0\am.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ar.pak" target="content\ar.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ar.pak" target="contentFiles\any\net6.0-windows7.0\ar.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\bg.pak" target="content\bg.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\bg.pak" target="contentFiles\any\net6.0-windows7.0\bg.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\bn.pak" target="content\bn.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\bn.pak" target="contentFiles\any\net6.0-windows7.0\bn.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ca.pak" target="content\ca.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ca.pak" target="contentFiles\any\net6.0-windows7.0\ca.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\cs.pak" target="content\cs.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\cs.pak" target="contentFiles\any\net6.0-windows7.0\cs.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\da.pak" target="content\da.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\da.pak" target="contentFiles\any\net6.0-windows7.0\da.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\de.pak" target="content\de.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\de.pak" target="contentFiles\any\net6.0-windows7.0\de.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\el.pak" target="content\el.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\el.pak" target="contentFiles\any\net6.0-windows7.0\el.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\en-GB.pak" target="content\en-GB.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\en-GB.pak" target="contentFiles\any\net6.0-windows7.0\en-GB.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\en-US.pak" target="content\en-US.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\en-US.pak" target="contentFiles\any\net6.0-windows7.0\en-US.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\es-419.pak" target="content\es-419.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\es-419.pak" target="contentFiles\any\net6.0-windows7.0\es-419.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\es.pak" target="content\es.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\es.pak" target="contentFiles\any\net6.0-windows7.0\es.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\et.pak" target="content\et.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\et.pak" target="contentFiles\any\net6.0-windows7.0\et.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\fa.pak" target="content\fa.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\fa.pak" target="contentFiles\any\net6.0-windows7.0\fa.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\fi.pak" target="content\fi.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\fi.pak" target="contentFiles\any\net6.0-windows7.0\fi.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\fil.pak" target="content\fil.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\fil.pak" target="contentFiles\any\net6.0-windows7.0\fil.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\fr.pak" target="content\fr.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\fr.pak" target="contentFiles\any\net6.0-windows7.0\fr.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\gu.pak" target="content\gu.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\gu.pak" target="contentFiles\any\net6.0-windows7.0\gu.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\he.pak" target="content\he.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\he.pak" target="contentFiles\any\net6.0-windows7.0\he.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\hi.pak" target="content\hi.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\hi.pak" target="contentFiles\any\net6.0-windows7.0\hi.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\hr.pak" target="content\hr.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\hr.pak" target="contentFiles\any\net6.0-windows7.0\hr.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\hu.pak" target="content\hu.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\hu.pak" target="contentFiles\any\net6.0-windows7.0\hu.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\id.pak" target="content\id.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\id.pak" target="contentFiles\any\net6.0-windows7.0\id.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\it.pak" target="content\it.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\it.pak" target="contentFiles\any\net6.0-windows7.0\it.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ja.pak" target="content\ja.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ja.pak" target="contentFiles\any\net6.0-windows7.0\ja.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\kn.pak" target="content\kn.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\kn.pak" target="contentFiles\any\net6.0-windows7.0\kn.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ko.pak" target="content\ko.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ko.pak" target="contentFiles\any\net6.0-windows7.0\ko.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\lt.pak" target="content\lt.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\lt.pak" target="contentFiles\any\net6.0-windows7.0\lt.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\lv.pak" target="content\lv.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\lv.pak" target="contentFiles\any\net6.0-windows7.0\lv.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ml.pak" target="content\ml.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ml.pak" target="contentFiles\any\net6.0-windows7.0\ml.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\mr.pak" target="content\mr.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\mr.pak" target="contentFiles\any\net6.0-windows7.0\mr.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ms.pak" target="content\ms.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ms.pak" target="contentFiles\any\net6.0-windows7.0\ms.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\nb.pak" target="content\nb.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\nb.pak" target="contentFiles\any\net6.0-windows7.0\nb.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\nl.pak" target="content\nl.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\nl.pak" target="contentFiles\any\net6.0-windows7.0\nl.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\pl.pak" target="content\pl.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\pl.pak" target="contentFiles\any\net6.0-windows7.0\pl.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\pt-BR.pak" target="content\pt-BR.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\pt-BR.pak" target="contentFiles\any\net6.0-windows7.0\pt-BR.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\pt-PT.pak" target="content\pt-PT.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\pt-PT.pak" target="contentFiles\any\net6.0-windows7.0\pt-PT.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ro.pak" target="content\ro.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ro.pak" target="contentFiles\any\net6.0-windows7.0\ro.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ru.pak" target="content\ru.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ru.pak" target="contentFiles\any\net6.0-windows7.0\ru.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\sk.pak" target="content\sk.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\sk.pak" target="contentFiles\any\net6.0-windows7.0\sk.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\sl.pak" target="content\sl.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\sl.pak" target="contentFiles\any\net6.0-windows7.0\sl.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\sr.pak" target="content\sr.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\sr.pak" target="contentFiles\any\net6.0-windows7.0\sr.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\sv.pak" target="content\sv.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\sv.pak" target="contentFiles\any\net6.0-windows7.0\sv.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\sw.pak" target="content\sw.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\sw.pak" target="contentFiles\any\net6.0-windows7.0\sw.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ta.pak" target="content\ta.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\ta.pak" target="contentFiles\any\net6.0-windows7.0\ta.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\te.pak" target="content\te.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\te.pak" target="contentFiles\any\net6.0-windows7.0\te.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\th.pak" target="content\th.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\th.pak" target="contentFiles\any\net6.0-windows7.0\th.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\tr.pak" target="content\tr.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\tr.pak" target="contentFiles\any\net6.0-windows7.0\tr.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\uk.pak" target="content\uk.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\uk.pak" target="contentFiles\any\net6.0-windows7.0\uk.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\vi.pak" target="content\vi.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\vi.pak" target="contentFiles\any\net6.0-windows7.0\vi.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\zh-CN.pak" target="content\zh-CN.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\zh-CN.pak" target="contentFiles\any\net6.0-windows7.0\zh-CN.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\zh-TW.pak" target="content\zh-TW.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\locales\zh-TW.pak" target="contentFiles\any\net6.0-windows7.0\zh-TW.pak" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\swiftshader\libEGL.dll" target="content\libEGL.dll" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\swiftshader\libEGL.dll" target="contentFiles\any\net6.0-windows7.0\libEGL.dll" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\swiftshader\libGLESv2.dll" target="content\libGLESv2.dll" />
+    <file src="C:\Users\bubbles\.nuget\packages\chromiumembeddedframework.runtime\100.0.14\CEF\win-x86\swiftshader\libGLESv2.dll" target="contentFiles\any\net6.0-windows7.0\libGLESv2.dll" />
+    <file src="C:\Users\bubbles\.nuget\packages\cefsharp.common.netcore\100.0.140\runtimes\win-x86\lib\netcoreapp3.1\CefSharp.dll" target="content\CefSharp.dll" />
+    <file src="C:\Users\bubbles\.nuget\packages\cefsharp.common.netcore\100.0.140\runtimes\win-x86\lib\netcoreapp3.1\CefSharp.dll" target="contentFiles\any\net6.0-windows7.0\CefSharp.dll" />
+    <file src="C:\Users\bubbles\.nuget\packages\cefsharp.common.netcore\100.0.140\runtimes\win-x86\lib\netcoreapp3.1\Ijwhost.dll" target="content\Ijwhost.dll" />
+    <file src="C:\Users\bubbles\.nuget\packages\cefsharp.common.netcore\100.0.140\runtimes\win-x86\lib\netcoreapp3.1\Ijwhost.dll" target="contentFiles\any\net6.0-windows7.0\Ijwhost.dll" />
+  </files>
+</package>
