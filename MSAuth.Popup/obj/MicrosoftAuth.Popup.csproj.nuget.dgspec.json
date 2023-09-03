@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Get-MS-account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj": {}
+    "D:\\Project\\Get-MS-Account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Get-MS-account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj": {
+    "D:\\Project\\Get-MS-Account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Get-MS-account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj",
+        "projectUniqueName": "D:\\Project\\Get-MS-Account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj",
         "projectName": "MicrosoftAuth.Popup",
-        "projectPath": "D:\\Project\\Get-MS-account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj",
+        "projectPath": "D:\\Project\\Get-MS-Account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj",
         "packagesPath": "C:\\Users\\bubbles\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Get-MS-account-Token\\MSAuth.Popup\\obj\\",
+        "outputPath": "D:\\Project\\Get-MS-Account-Token\\MSAuth.Popup\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bubbles\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1125,11 +1125,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Get-MS-account-Token\\CoreTool\\CoreTool.csproj",
+      "projectUniqueName": "D:\\Project\\Get-MS-Account-Token\\CoreTool\\CoreTool.csproj",
       "projectName": "CoreTool",
-      "projectPath": "D:\\Project\\Get-MS-account-Token\\CoreTool\\CoreTool.csproj",
+      "projectPath": "D:\\Project\\Get-MS-Account-Token\\CoreTool\\CoreTool.csproj",
       "packagesPath": "C:\\Users\\bubbles\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Get-MS-account-Token\\CoreTool\\obj\\",
+      "outputPath": "D:\\Project\\Get-MS-Account-Token\\CoreTool\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bubbles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1146,11 +1146,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\Project\\Get-MS-account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj": {
-              "projectPath": "D:\\Project\\Get-MS-account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj"
+            "D:\\Project\\Get-MS-Account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj": {
+              "projectPath": "D:\\Project\\Get-MS-Account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj"
             },
-            "D:\\Project\\Get-MS-account-Token\\MSAuth\\MicrosoftAuth.csproj": {
-              "projectPath": "D:\\Project\\Get-MS-account-Token\\MSAuth\\MicrosoftAuth.csproj"
+            "D:\\Project\\Get-MS-Account-Token\\MSAuth\\MicrosoftAuth.csproj": {
+              "projectPath": "D:\\Project\\Get-MS-Account-Token\\MSAuth\\MicrosoftAuth.csproj"
             }
           }
         }

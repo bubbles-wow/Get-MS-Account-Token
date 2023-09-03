@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wom6jC1PjXVsxQuLkZ+vMtZWXavo3V3zWXJoyvBi0XrBbUXOZgro/zYumKCwlVS4qa9A2wVLzOke1Do44Zjwow==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Get-MS-Account-Token\\MSAuth.Popup\\MicrosoftAuth.Popup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bubbles\\.nuget\\packages\\cef.redist.x64\\100.0.14\\cef.redist.x64.100.0.14.nupkg.sha512",
+    "C:\\Users\\bubbles\\.nuget\\packages\\cef.redist.x86\\100.0.14\\cef.redist.x86.100.0.14.nupkg.sha512",
+    "C:\\Users\\bubbles\\.nuget\\packages\\cefsharp.common.netcore\\100.0.140\\cefsharp.common.netcore.100.0.140.nupkg.sha512",
+    "C:\\Users\\bubbles\\.nuget\\packages\\cefsharp.winforms.netcore\\100.0.140\\cefsharp.winforms.netcore.100.0.140.nupkg.sha512",
+    "C:\\Users\\bubbles\\.nuget\\packages\\chromiumembeddedframework.runtime\\100.0.14\\chromiumembeddedframework.runtime.100.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

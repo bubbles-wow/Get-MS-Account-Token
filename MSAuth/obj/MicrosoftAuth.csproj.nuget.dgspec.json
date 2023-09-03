@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Get-MS-account-Token\\MSAuth\\MicrosoftAuth.csproj": {}
+    "D:\\Project\\Get-MS-Account-Token\\MSAuth\\MicrosoftAuth.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Get-MS-account-Token\\MSAuth\\MicrosoftAuth.csproj": {
+    "D:\\Project\\Get-MS-Account-Token\\MSAuth\\MicrosoftAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Get-MS-account-Token\\MSAuth\\MicrosoftAuth.csproj",
+        "projectUniqueName": "D:\\Project\\Get-MS-Account-Token\\MSAuth\\MicrosoftAuth.csproj",
         "projectName": "MicrosoftAuth",
-        "projectPath": "D:\\Project\\Get-MS-account-Token\\MSAuth\\MicrosoftAuth.csproj",
+        "projectPath": "D:\\Project\\Get-MS-Account-Token\\MSAuth\\MicrosoftAuth.csproj",
         "packagesPath": "C:\\Users\\bubbles\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Get-MS-account-Token\\MSAuth\\obj\\",
+        "outputPath": "D:\\Project\\Get-MS-Account-Token\\MSAuth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bubbles\\AppData\\Roaming\\NuGet\\NuGet.Config",

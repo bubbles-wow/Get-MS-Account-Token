@@ -13,6 +13,7 @@ namespace MSAuth.Popup
         {
             CefSettings settings = new CefSettings();
             settings.CefCommandLineArgs.Add("disable-gpu", "1");
+            settings.LogSeverity = LogSeverity.Disable;
 
             Cef.Initialize(settings);
             InitializeWebview();
@@ -32,19 +33,20 @@ namespace MSAuth.Popup
             usedBrowser.Dock = DockStyle.Fill;
             usedBrowser.Location = new Point(0, 0);
             usedBrowser.Name = "Sign in Microsoft Account";
-            usedBrowser.Size = new Size(784, 661);
+            usedBrowser.Size = new Size(420, 550);
             usedBrowser.TabIndex = 0;
-            usedBrowser.Text = "Sign in Microsoft Account";
+            usedBrowser.Text = "msAuthPopupWebview";
             usedBrowser.LoadingStateChanged += BrowserOnLoadingStateChanged;
 
-            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(784, 661);
+            ClientSize = new Size(420, 550);
             Controls.Add(usedBrowser);
             FormBorderStyle = FormBorderStyle.FixedSingle;
-            MaximizeBox = true;
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "Sign in Microsoft Account";
-            ShowIcon = false;
+            this.Icon = MicrosoftAuth.Popup.Properties.Resources.MS;
+            ShowIcon = true;
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Sign in Microsoft Account";
 
@@ -98,6 +100,16 @@ namespace MSAuth.Popup
         private void BrowserOnLoadingStateChanged(object? sender, LoadingStateChangedEventArgs e)
         {
             if (e.IsLoading) return;
+
+            string javascriptCode = @"
+                document.getElementById('lightboxBackgroundContainer').style.display = 'none';
+                document.getElementsByClassName('background-logo-holder')[0].style.display = 'none';
+                document.getElementById('footer').style.display = 'none';
+                document.getElementById('lightbox').style.border = 'none';
+                document.getElementById('lightbox').style.boxShadow = 'none';
+                document.getElementById('lightbox').style.marginBottom = '0';
+            ";
+            usedBrowser.ExecuteScriptAsync(javascriptCode);
 
             _ = AutoLogin();
 
