@@ -16,7 +16,7 @@ namespace CoreTool
 
             BaseToken requestedToken = await account.RequestToken("{28520974-CE92-4F36-A219-3F255AF7E61E}", new SecureScope($"scope={scope}", "TOKEN_BROKER"));
 
-            Console.WriteLine($"Microsoft: Received token for scope {scope}.");
+            //Console.WriteLine($"Microsoft: Received token for scope {scope}.");
 
             return Convert.ToBase64String(Encoding.Unicode.GetBytes(requestedToken.Token));
         }
